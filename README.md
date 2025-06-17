@@ -17,7 +17,7 @@ Incluye tres páginas: bienvenida, servicios y una página dinámica de ejemplo.
    ```
 3. Ejecuta el servidor de desarrollo:
    ```
-   python manage.py runserver
+   python gestionar.py runserver
    ```
 4. Accede a `http://127.0.0.1:8000/` en tu navegador.
 
